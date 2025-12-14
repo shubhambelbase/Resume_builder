@@ -36,7 +36,8 @@ Since this is a static web application, no backend installation or build process
 ### Local Use
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/shubhambelbase/resume-builder.git](https://github.com/shubhambelbase/resume-builder.git)
+    git clone [https://github.com/shubhambelbase/Resume_builder.git](https://github.com/shubhambelbase/Resume_builder.git)
+    
     ```
 2.  **Navigate to the project folder:**
     ```bash
