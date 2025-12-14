@@ -41,7 +41,7 @@ Since this is a static web application, no backend installation or build process
     ```
 2.  **Navigate to the project folder:**
     ```bash
-    cd resume-builder
+    cd Resume_builder
     ```
 3.  **Run the App:**
     Simply double-click the `index.html` file to open it in your default web browser.
