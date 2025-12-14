@@ -22,7 +22,7 @@
   </p>
 
   <h3>
-    <a href="https://wifitalk.netlify.app">🚀 View Live Demo</a>
+    <a href="https://resucv.netlify.app/">🚀 View Live Demo</a>
   </h3>
 </div>
 
