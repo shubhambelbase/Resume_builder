@@ -1,5 +1,9 @@
 <div align="center">
 
+  <img src="https://img.shields.io/badge/✨%20Vibe%20Coded-100%25-8A2BE2?style=for-the-badge" alt="Vibe Coded" />
+  <br />
+  <br />
+
   <h1>📄 Resume Builder</h1>
   
   <p>
@@ -28,7 +32,7 @@
 
 **Resume Builder** is a powerful, lightweight, and **privacy-focused** web application designed to help students and professionals create stunning resumes. 
 
-Unlike other tools that force you to create accounts or pay for downloads, this project runs **100% in your browser**. Your data never leaves your device.
+This project was **"Vibe Coded"**—built in a flow state to prioritize speed, simplicity, and immediate utility without getting bogged down in complex frameworks. It runs **100% in your browser**.
 
 ## ✨ Key Features
 
@@ -96,6 +100,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by <a href="https://github.com/shubhambelbase">Shubham Belbase</a></p>
+  <p>Vibe coded with ❤️ by <a href="https://github.com/shubhambelbase">Shubham Belbase</a></p>
 </div>
 
