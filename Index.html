@@ -202,7 +202,7 @@
         .template-modern h1 { font-size: 28px; font-weight: 700; line-height: 1.2; margin-bottom: 5px; }
         .template-modern .job-title { font-size: 16px; color: var(--text-muted); margin-bottom: 20px; text-transform: uppercase; letter-spacing: 1px; }
         .template-modern h3 { font-size: 14px; text-transform: uppercase; letter-spacing: 1px; border-bottom: 2px solid; padding-bottom: 5px; margin-bottom: 15px; margin-top: 20px; font-weight: 700; }
-        .template-modern .contact-item { font-size: 13px; margin-bottom: 8px; display: flex; align-items: center; word-break: break-all; color: var(--text-dark); }
+        .template-modern .contact-item { font-size: 12px; margin-bottom: 8px; display: flex; align-items: center; color: var(--text-dark); }
         .template-modern .contact-item i { width: 20px; opacity: 0.8; }
         .template-modern .item-block { margin-bottom: 15px; }
         .template-modern .item-title { font-weight: 700; font-size: 15px; }
@@ -884,7 +884,7 @@
 
                     <div class="contact-section">
                         <h3 style="border-bottom-color:#cbd5e1; color:${themeColor}">Contact</h3>
-                        ${resumeData.personal.email ? `<div class="contact-item"><i class="fas fa-envelope" style="color:${themeColor}"></i> ${resumeData.personal.email}</div>` : ''}
+                        ${resumeData.personal.email ? `<div class="contact-item"><i class="fas fa-envelope" style="color:${themeColor}"></i> <a href="mailto:${resumeData.personal.email}" style="color:inherit; text-decoration:none;">${resumeData.personal.email}</a></div>` : ''}
                         ${resumeData.personal.phone ? `<div class="contact-item"><i class="fas fa-phone" style="color:${themeColor}"></i> ${resumeData.personal.phone}</div>` : ''}
                         ${resumeData.personal.location ? `<div class="contact-item"><i class="fas fa-map-marker-alt" style="color:${themeColor}"></i> ${resumeData.personal.location}</div>` : ''}
                         ${resumeData.personal.link ? `<div class="contact-item"><i class="fas fa-link" style="color:${themeColor}"></i> ${resumeData.personal.link}</div>` : ''}
@@ -1336,4 +1336,4 @@
 </script>
 
 </body>
-</html>
+    </html>
